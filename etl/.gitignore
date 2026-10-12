@@ -1,0 +1,9 @@
+# Python / pandas
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.csv
+*.xlsx
